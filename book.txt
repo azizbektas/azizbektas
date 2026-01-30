@@ -1,1 +1,3 @@
 Başlıklar;
+1- Network fundamental
+2- Switch initial config.
