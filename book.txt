@@ -1,3 +1,5 @@
 Başlıklar;
 1- Network fundamental
 2- Switch initial config.
+3- Frame header
+4- IP header
